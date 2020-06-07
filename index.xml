@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>$HELLO_PROG^</title>
+    <link>https://blog.jino.net/</link>
+    <description>Recent content on $HELLO_PROG^</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr-ko</language>
+    <managingEditor>gino9940@gmail.com (jinho)</managingEditor>
+    <webMaster>gino9940@gmail.com (jinho)</webMaster>
+    
+	<atom:link href="https://blog.jino.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
